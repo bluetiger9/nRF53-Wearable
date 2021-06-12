@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name nRF5340-Wearable)(type Legacy)(uri ${KIPRJMOD}/lib/nRF5340-Wearable.lib)(options "")(descr ""))
+  (lib (name Fanstel-modules)(type Legacy)(uri ${KIPRJMOD}/lib/Fanstel-modules.lib)(options "")(descr ""))
+)

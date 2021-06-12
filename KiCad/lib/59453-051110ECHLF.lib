@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 59453-051110ECHLF
+#/2356674/89480/2.49/7/4/Connector
+DEF 59453-051110ECHLF J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "59453-051110ECHLF" 650 200 50 H V L CNN
+F2 "59453051110ECHLF" 650 100 50 H I L CNN
+F3 "https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/59453-0_1110echlf.pdf" 650 0 50 H I L CNN
+F4 "FFC and FPC 0.5mm Pitch FPC 5 Contact Conn connectors" 650 -100 50 H I L CNN "Description"
+F5 "1" 650 -200 50 H I L CNN "Height"
+F6 "Amphenol" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "59453-051110ECHLF" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "649-59453051110ECHLF" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Amphenol-FCI/59453-051110ECHLF?qs=SqJKR5Mmryc5fGwXZgOgcA%3D%3D" 650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "59453-051110ECHLF" 650 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/59453-051110echlf/amphenol-fci" 650 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X 1 1 800 0 200 L 50 50 0 0 P
+X 2 2 800 -100 200 L 50 50 0 0 P
+X 3 3 800 -200 200 L 50 50 0 0 P
+X 4 4 800 -300 200 L 50 50 0 0 P
+X 5 5 800 -400 200 L 50 50 0 0 P
+X 6 6 0 0 200 R 50 50 0 0 P
+X 7 7 0 -100 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -500 200 -500 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
