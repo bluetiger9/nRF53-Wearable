@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/opt/Nordic/connect-sdk/nrf/samples/bluetooth/peripheral_lbs/build_nrf5340dk_nrf5340_cpuapp/modules/nrf/samples/CMakeFiles/hci_rpmsg_subimage"
+		},
+		{
+			"file" : "/opt/Nordic/connect-sdk/nrf/samples/bluetooth/peripheral_lbs/build_nrf5340dk_nrf5340_cpuapp/modules/nrf/samples/CMakeFiles/hci_rpmsg_subimage.rule"
+		},
+		{
+			"file" : "/opt/Nordic/connect-sdk/nrf/samples/bluetooth/peripheral_lbs/build_nrf5340dk_nrf5340_cpuapp/modules/nrf/samples/CMakeFiles/hci_rpmsg_subimage-complete.rule"
+		},
+		{
+			"file" : "/opt/Nordic/connect-sdk/nrf/samples/bluetooth/peripheral_lbs/build_nrf5340dk_nrf5340_cpuapp/modules/nrf/samples/hci_rpmsg_subimage-prefix/src/hci_rpmsg_subimage-stamp/hci_rpmsg_subimage-install.rule"
+		},
+		{
+			"file" : "/opt/Nordic/connect-sdk/nrf/samples/bluetooth/peripheral_lbs/build_nrf5340dk_nrf5340_cpuapp/modules/nrf/samples/hci_rpmsg_subimage-prefix/src/hci_rpmsg_subimage-stamp/hci_rpmsg_subimage-mkdir.rule"
+		},
+		{
+			"file" : "/opt/Nordic/connect-sdk/nrf/samples/bluetooth/peripheral_lbs/build_nrf5340dk_nrf5340_cpuapp/modules/nrf/samples/hci_rpmsg_subimage-prefix/src/hci_rpmsg_subimage-stamp/hci_rpmsg_subimage-download.rule"
+		},
+		{
+			"file" : "/opt/Nordic/connect-sdk/nrf/samples/bluetooth/peripheral_lbs/build_nrf5340dk_nrf5340_cpuapp/modules/nrf/samples/hci_rpmsg_subimage-prefix/src/hci_rpmsg_subimage-stamp/hci_rpmsg_subimage-update.rule"
+		},
+		{
+			"file" : "/opt/Nordic/connect-sdk/nrf/samples/bluetooth/peripheral_lbs/build_nrf5340dk_nrf5340_cpuapp/modules/nrf/samples/hci_rpmsg_subimage-prefix/src/hci_rpmsg_subimage-stamp/hci_rpmsg_subimage-patch.rule"
+		},
+		{
+			"file" : "/opt/Nordic/connect-sdk/nrf/samples/bluetooth/peripheral_lbs/build_nrf5340dk_nrf5340_cpuapp/modules/nrf/samples/hci_rpmsg_subimage-prefix/src/hci_rpmsg_subimage-stamp/hci_rpmsg_subimage-configure.rule"
+		},
+		{
+			"file" : "/opt/Nordic/connect-sdk/nrf/samples/bluetooth/peripheral_lbs/build_nrf5340dk_nrf5340_cpuapp/modules/nrf/samples/hci_rpmsg_subimage-prefix/src/hci_rpmsg_subimage-stamp/hci_rpmsg_subimage-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"hci_rpmsg_subimage"
+		],
+		"name" : "hci_rpmsg_subimage"
+	}
+}

@@ -1,0 +1,2 @@
+osource "/opt/Nordic/connect-sdk/zephyr/soc/$(ARCH)/Kconfig"
+osource "/opt/Nordic/connect-sdk/zephyr/soc/$(ARCH)/*/Kconfig"

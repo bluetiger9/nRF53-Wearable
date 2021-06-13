@@ -1,0 +1,36 @@
+menu "nrf (/opt/Nordic/connect-sdk/nrf)"
+osource "/opt/Nordic/connect-sdk/nrf/Kconfig.nrf"
+config ZEPHYR_NRF_MODULE
+	bool
+	default y
+endmenu
+menu "mcuboot (/opt/Nordic/connect-sdk/bootloader/mcuboot)"
+osource "$(ZEPHYR_MCUBOOT_KCONFIG)"
+config ZEPHYR_MCUBOOT_MODULE
+	bool
+	default y
+endmenu
+menu "nrfxlib (/opt/Nordic/connect-sdk/nrfxlib)"
+osource "/opt/Nordic/connect-sdk/nrfxlib/Kconfig.nrfxlib"
+config ZEPHYR_NRFXLIB_MODULE
+	bool
+	default y
+endmenu
+menu "hal_nordic (/opt/Nordic/connect-sdk/modules/hal/nordic)"
+osource "$(ZEPHYR_HAL_NORDIC_KCONFIG)"
+config ZEPHYR_HAL_NORDIC_MODULE
+	bool
+	default y
+endmenu
+menu "cddl-gen (/opt/Nordic/connect-sdk/modules/lib/cddl-gen)"
+osource "$(ZEPHYR_CDDL_GEN_KCONFIG)"
+config ZEPHYR_CDDL_GEN_MODULE
+	bool
+	default y
+endmenu
+menu "connectedhomeip (/opt/Nordic/connect-sdk/modules/lib/connectedhomeip)"
+osource "/opt/Nordic/connect-sdk/modules/lib/connectedhomeip/config/nrfconnect/chip-module/Kconfig"
+config ZEPHYR_CONNECTEDHOMEIP_MODULE
+	bool
+	default y
+endmenu

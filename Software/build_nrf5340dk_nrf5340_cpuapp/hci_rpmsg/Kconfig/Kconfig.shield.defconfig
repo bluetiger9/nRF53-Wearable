@@ -1,0 +1,3 @@
+osource "/opt/Nordic/connect-sdk/nrf/boards/shields/*/Kconfig.defconfig"
+osource "/opt/Nordic/connect-sdk/zephyr/boards/shields/*/Kconfig.defconfig"
+osource "/opt/Nordic/connect-sdk/zephyr/boards/shields/*/Kconfig.defconfig"
