@@ -1,3 +1,0 @@
-"BOARD_ROOT":"/opt/Nordic/connect-sdk/nrf"
-"DTS_ROOT":"/opt/Nordic/connect-sdk/nrf"
-"MODULE_EXT_ROOT":"/opt/Nordic/connect-sdk/nrf"
